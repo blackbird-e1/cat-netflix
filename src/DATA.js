@@ -26,7 +26,7 @@ export const HERO = {
   backgroundMobileSrc: "/thumb/mainph.png",
 
   // Hero Video — Hero Play button dabaane par FULLSCREEN mein chalega
-  videoSrc: "/videos/main.mp4",
+  videoSrc: "https://res.cloudinary.com/jse6tclv/video/upload/v1783537326/main_tivedz.mp4",
 
   // Thumbnail — Video se pehle dikhega (hero background ke upar nahi, sirf player mein)
   videoThumbnail: "/thumb/img1.png",
@@ -66,8 +66,8 @@ export const ROWS = [
       {
         id: "p2",
         title: "Favorite Moments",
-        img: "https://res.cloudinary.com/jse6tclv/video/upload/v1783537330/v6_fy2caj.mp4",
-        videoSrc: "/videos/v6.mp4",
+        img: "/thumb/img2.png",
+        videoSrc: "https://res.cloudinary.com/jse6tclv/video/upload/v1783537330/v6_fy2caj.mp4",
         tags: ["Heartfelt", "Deep Connections"],
         match: "95% Match",
         age: "16+",
