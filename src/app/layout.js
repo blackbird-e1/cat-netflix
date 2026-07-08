@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Netflix",
-  description: "Love Story Netflix OTT platform clone",
+  description: "Vous adorez les tanukis?",
   manifest: "/manifest.webmanifest",
 };
 
